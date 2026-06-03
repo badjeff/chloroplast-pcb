@@ -1,6 +1,6 @@
 # chloroplast
 
-A nRF52840 controller with Ebyte E73-2G4M08S1C module, TI BQ25186DLHR, and TI TPS7A0233PDBVR.
+A nRF52840 controller with the [Ebyte E73-2G4M08S1C module](https://www.cdebyte.com/products/E73-2G4M08S1C), [TI BQ25186DLHR](https://www.ti.com/product/BQ25186/part-details/BQ25186DLHR), and [TI TPS7A0233PDBVR](https://www.ti.com/product/TPS7A02/part-details/TPS7A0233PDBVR).
 
 <p float="left">
 <img src="photo-1.jpg" height="204">
