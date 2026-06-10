@@ -7188,7 +7188,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2302231030_FH--Guangdong-Fenghua-Advanced-Tech-CMI160808J100KT_C109083.pdf"
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C76798.pdf"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7201,7 +7201,7 @@
 				)
 			)
 		)
-		(property "Description" "1.75Ω 10uH 17MHz 20@2MHz 3mA Multilayer inductor、High-frequency inductor ±10% 0603 Inductors (SMD) ROHS"
+		(property "Description" "1.05Ω 10uH 250mA 2MHz 90mA Multilayer inductor ±20% 0603 Inductors (SMD) ROHS"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7214,7 +7214,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C109083"
+		(property "LCSC" "C76798"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7227,7 +7227,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "FH (Guangdong Fenghua Advanced Tech)"
+		(property "Manufacturer" "TDK"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7240,7 +7240,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CMI160808J100KT"
+		(property "Manufacturer Part" "MLZ1608M100WT000"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
